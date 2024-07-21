@@ -16,7 +16,7 @@ This library provides an efficient way to manage the Pico's flash memory sectors
 ## Getting Started
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository into project:
     ```sh
     git clone https://github.com/VictorGorgal/flash-wear-leveling-lib.git
     cd flash-wear-leveling-lib
